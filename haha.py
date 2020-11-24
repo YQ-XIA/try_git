@@ -2,4 +2,6 @@ a = 1
 #modified
 b = 2
 #committed but i want to do some change and dont change the graph
-#i am in master and commit once
+#i am in master and solve conflict and merge from branch
+
+
