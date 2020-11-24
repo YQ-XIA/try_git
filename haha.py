@@ -8,5 +8,8 @@ b = 2
 #i am at dev branch and commit in dev
 #i am in dev coding
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
